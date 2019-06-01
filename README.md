@@ -1,5 +1,5 @@
 # demo-maven-profiles
-Ejemplo práctico mostrando como integrar perfiles de Maven a Spring Boot
+Ejemplo práctico en el que se muestra como integrar perfiles de Maven a Spring Boot
 
 
 <b>Vídeo con el ejemplo:</b><br>
